@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/03/20 03:29:01.004,=C:\Users\euris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 03:29:19.990,C:\temp\testegit\teste_rebase\Unit1.dfm=C:\Users\euris\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/20 03:29:19.990,C:\temp\testegit\teste_rebase\Unit1.pas=C:\Users\euris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 03:29:22.748,C:\temp\testegit\teste_rebase\Project1.dproj=C:\Users\euris\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
