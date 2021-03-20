@@ -13,4 +13,20 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Button1: TButton
+    Left = 152
+    Top = 56
+    Width = 209
+    Height = 25
+    Caption = 'Digite seu nome e clique aqui'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Edit1: TEdit
+    Left = 152
+    Top = 16
+    Width = 241
+    Height = 21
+    TabOrder = 1
+  end
 end
