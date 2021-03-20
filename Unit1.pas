@@ -9,6 +9,7 @@ uses
 type
   TForm1 = class(TForm)
     Button1: TButton;
+    Edit1: TEdit;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
@@ -25,7 +26,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-   ShowMessage('boa noite!');
+   ShowMessage('boa noite ' + Edit1.Text + ' !!!');
 end;
 
 end.
